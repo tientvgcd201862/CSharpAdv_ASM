@@ -1,0 +1,16 @@
+C:\Users\Tien\source\repos\tienASM\tienASM\bin\Debug\net5.0\tienASM.exe
+C:\Users\Tien\source\repos\tienASM\tienASM\bin\Debug\net5.0\tienASM.deps.json
+C:\Users\Tien\source\repos\tienASM\tienASM\bin\Debug\net5.0\tienASM.runtimeconfig.json
+C:\Users\Tien\source\repos\tienASM\tienASM\bin\Debug\net5.0\tienASM.runtimeconfig.dev.json
+C:\Users\Tien\source\repos\tienASM\tienASM\bin\Debug\net5.0\tienASM.dll
+C:\Users\Tien\source\repos\tienASM\tienASM\bin\Debug\net5.0\tienASM.pdb
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.csproj.AssemblyReference.cache
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.AssemblyInfoInputs.cache
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.AssemblyInfo.cs
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.dll
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\refint\tienASM.dll
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.pdb
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\tienASM.genruntimeconfig.cache
+C:\Users\Tien\source\repos\tienASM\tienASM\obj\Debug\net5.0\ref\tienASM.dll
